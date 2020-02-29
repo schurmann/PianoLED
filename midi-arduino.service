@@ -1,0 +1,9 @@
+[Unit]
+Description=MIDI Service to send data from piano to serial
+
+[Service]
+ExecStart=/home/pi/.pyenv/versions/midi/bin/python /home/pi/midi/main.py
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
