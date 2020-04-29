@@ -1,0 +1,5 @@
+mido==1.2.9
+pyserial==3.4
+python-rtmidi==1.4.1
+pyudev==0.22.0
+six==1.14.0
