@@ -16,7 +16,7 @@ lxml==4.5.0
 mccabe==0.6.1
 pathspec==0.7.0
 pycodestyle==2.5.0
-pydantic==1.4
+pydantic==1.6.2
 pyflakes==2.1.1
 regex==2020.2.20
 requests==2.23.0
